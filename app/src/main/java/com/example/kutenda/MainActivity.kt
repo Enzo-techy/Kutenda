@@ -12,6 +12,9 @@ import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
 import com.example.kutenda.databinding.ActivityMainBinding
+//import com.example.kutenda.R
+
+
 
 class MainActivity : AppCompatActivity() {
 
